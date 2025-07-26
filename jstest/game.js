@@ -95,9 +95,9 @@ document.addEventListener("keyup", (e) => {
 });
 
 //画像読み込み
-jikibmp.src = "media/test_jiki.png";
-jitamabmp.src = "media/test_tama.png";
-tekibmp.src = "media/test_teki.png";
+jikibmp.src = "media/test_jiki.webp";
+jitamabmp.src = "media/test_tama.webp";
+tekibmp.src = "media/test_teki.webp";
 
 //初期化
 jichara.x = 24;

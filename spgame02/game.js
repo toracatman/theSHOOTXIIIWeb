@@ -54,29 +54,29 @@ var backjpg = new Image();
 backjpg.src = "../img/back01.jpg";
 
 var jikibmp = new Image();
-jikibmp.src = "../img/jiki.png";
+jikibmp.src = "../img/jiki.webp";
 var jitamabmp = new Image();
-jitamabmp.src = "../img/tama.png";
+jitamabmp.src = "../img/tama.webp";
 var tekibmp = new Image();
-tekibmp.src = "../img/teki01.png";
+tekibmp.src = "../img/teki01.webp";
 var ttamabmp = new Image();
-ttamabmp.src = "../img/tekitama.png";
+ttamabmp.src = "../img/tekitama.webp";
 var bakuenbmp = new Image();
-bakuenbmp.src = "../img/bakuen.png";
+bakuenbmp.src = "../img/bakuen.webp";
 var jbakuenbmp = new Image();
-jbakuenbmp.src = "../img/bakuenj.png";
+jbakuenbmp.src = "../img/bakuenj.webp";
 
 //音声読み込み
 var openmusic = new Audio("../sound/tam-g17.mp3");
 openmusic.loop = true;
 var backmusic = new Audio("../sound/Galaxy.ogg");
 backmusic.loop = true;
-var clip1 = new Audio("../sound/bom35.wav");
-var clip2 = new Audio("../sound/don18_c.wav");
-var clip3 = new Audio("../sound/shoot22.wav");
-var clip4 = new Audio("../sound/power33.wav");
-var clip5 = new Audio("../sound/hit_p07.wav");
-var clip7 = new Audio("../sound/metal27_a.wav");
+var clip1 = new Audio("../sound/bom35.ogg");
+var clip2 = new Audio("../sound/don18_c.ogg");
+var clip3 = new Audio("../sound/shoot22.ogg");
+var clip4 = new Audio("../sound/power33.ogg");
+var clip5 = new Audio("../sound/hit_p07.ogg");
+var clip7 = new Audio("../sound/metal27_a.ogg");
 
 var jichara = {
 	img: jikibmp,
