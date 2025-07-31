@@ -65,7 +65,7 @@ var jbakuenbmp = new Image();
 jbakuenbmp.src = "../img/bakuenj.webp";
 
 //音声読み込み
-var openmusic = new Audio("../sound/tam-g17.mp3");
+var openmusic = new Audio("../sound/tam-g17loop.ogg");
 openmusic.loop = true;
 var backmusic = new Audio("../sound/Galaxy.ogg");
 backmusic.loop = true;

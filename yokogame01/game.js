@@ -149,9 +149,9 @@ var itembmp = new Image();
 itembmp.src = "../img/item.webp";
 
 //音声読み込み
-var openmusic = new Audio("../sound/tam-g17.mp3");
+var openmusic = new Audio("../sound/tam-g17loop.ogg");
 openmusic.loop = true;
-var backmusic = new Audio("../sound/debris.mp3");
+var backmusic = new Audio("../sound/debris.ogg");
 backmusic.loop = true;
 var clip1 = new Audio("../sound/bom35.ogg");
 var clip2 = new Audio("../sound/don18_c.ogg");
