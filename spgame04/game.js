@@ -49,9 +49,9 @@ var animcounter;
 
 //画像読み込み
 var gametitlejpg = new Image();
-gametitlejpg.src = "../img/gametitle.jpg";
+gametitlejpg.src = "../img/gametitle.webp";
 var backjpg = new Image();
-backjpg.src = "../img/back03.jpg";
+backjpg.src = "../img/back03.webp";
 
 var jikibmp = new Image();
 jikibmp.src = "../img/jiki.webp";
